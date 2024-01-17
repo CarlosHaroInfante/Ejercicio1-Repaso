@@ -1,0 +1,14 @@
+C:\Users\Carlos\source\repos\Ejercicio1Repaso\Ejercicio1Repaso\bin\Debug\net7.0\Ejercicio1Repaso.exe
+C:\Users\Carlos\source\repos\Ejercicio1Repaso\Ejercicio1Repaso\bin\Debug\net7.0\Ejercicio1Repaso.deps.json
+C:\Users\Carlos\source\repos\Ejercicio1Repaso\Ejercicio1Repaso\bin\Debug\net7.0\Ejercicio1Repaso.runtimeconfig.json
+C:\Users\Carlos\source\repos\Ejercicio1Repaso\Ejercicio1Repaso\bin\Debug\net7.0\Ejercicio1Repaso.dll
+C:\Users\Carlos\source\repos\Ejercicio1Repaso\Ejercicio1Repaso\bin\Debug\net7.0\Ejercicio1Repaso.pdb
+C:\Users\Carlos\source\repos\Ejercicio1Repaso\Ejercicio1Repaso\obj\Debug\net7.0\Ejercicio1Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\source\repos\Ejercicio1Repaso\Ejercicio1Repaso\obj\Debug\net7.0\Ejercicio1Repaso.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\Ejercicio1Repaso\Ejercicio1Repaso\obj\Debug\net7.0\Ejercicio1Repaso.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\Ejercicio1Repaso\Ejercicio1Repaso\obj\Debug\net7.0\Ejercicio1Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Ejercicio1Repaso\Ejercicio1Repaso\obj\Debug\net7.0\Ejercicio1Repaso.dll
+C:\Users\Carlos\source\repos\Ejercicio1Repaso\Ejercicio1Repaso\obj\Debug\net7.0\refint\Ejercicio1Repaso.dll
+C:\Users\Carlos\source\repos\Ejercicio1Repaso\Ejercicio1Repaso\obj\Debug\net7.0\Ejercicio1Repaso.pdb
+C:\Users\Carlos\source\repos\Ejercicio1Repaso\Ejercicio1Repaso\obj\Debug\net7.0\Ejercicio1Repaso.genruntimeconfig.cache
+C:\Users\Carlos\source\repos\Ejercicio1Repaso\Ejercicio1Repaso\obj\Debug\net7.0\ref\Ejercicio1Repaso.dll
